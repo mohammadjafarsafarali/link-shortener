@@ -1,0 +1,4 @@
+/vendor
+/docker/redis/*
+.env
+.idea
